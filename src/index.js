@@ -1,4 +1,4 @@
-import { reverseArr } from "./ex6-reverse";
+import { reverseArr } from "./examples";
 import "./styles.css";
 
 let arrOne = [1, 2, 3, 4, 5, 6];
